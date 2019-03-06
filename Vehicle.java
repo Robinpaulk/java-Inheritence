@@ -1,15 +1,14 @@
-package com.timbuchalka;
+package com.robin;
 
-/**
- * Created by dev on 6/07/15.
- */
+
 public class Vehicle {
+    //fields
     private String name;
     private String size;
 
     private int currentVelocity;
     private int currentDirection;
-
+    // constructor
     public Vehicle(String name, String size) {
         this.name = name;
         this.size = size;
