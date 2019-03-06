@@ -1,8 +1,6 @@
-package com.timbuchalka;
+package com.robin;
 
-/**
- * Created by dev on 6/07/15.
- */
+
 public class Car extends Vehicle {
 
     private int wheels;
