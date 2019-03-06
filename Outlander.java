@@ -1,8 +1,5 @@
-package com.timbuchalka;
+package com.robin;
 
-/**
- * Created by dev on 6/07/15.
- */
 public class Outlander extends Car {
     private int roadServiceMonths;
 
